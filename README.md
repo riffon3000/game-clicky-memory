@@ -24,4 +24,4 @@ click to [Github Pages](https://riffon3000.github.io/game-clicky-memory/)<br>
 
 click image to web deployment.<br>
 
-<a href="https://game-clicky-memory.herokuapp.com/" target="_blank"><img src="https://github.com/riffon3000/game-clicky-memory/blob/master/public/img/clicky.png" alt="Memory Game Clicky" style="width: 50%; height: 50%;"></a>
+<a href="https://game-clicky-memory.herokuapp.com/" target="_blank"><img src="https://raw.githubusercontent.com/riffon3000/game-clicky-memory/master/public/img/clicky.png" alt="Memory Game Clicky" style="width: 50%; height: 50%;"></a>
