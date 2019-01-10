@@ -4,7 +4,7 @@ import Character from "./Character";
 
 const Card = (props) => {
     return (
-        <div className="character-box">
+        <div className="character-card">
             {props.characters.map((character, index) => <Character
                 character={character}
                 index={index}

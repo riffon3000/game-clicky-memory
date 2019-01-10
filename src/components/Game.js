@@ -5,63 +5,88 @@ import Score from "./Score";
 
 const array = [
     {
-        name: "",
-        img: "",
+        name: "Ant-Man",
+        img: "img/antman.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Black Panther",
+        img: "img/blackpanther.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Black Widow",
+        img: "img/blackwidow.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Captain America",
+        img: "img/captainamerica.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Falcon",
+        img: "img/falcon.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Hawkeye",
+        img: "img/hawkeye.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Hulk",
+        img: "img/hulk.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Iron Man",
+        img: "img/ironman.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Loki",
+        img: "img/loki.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Maria Hill",
+        img: "img/mariahill.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Nick Fury",
+        img: "img/nickfury.png",
         clicked: false
     },
     {
-        name: "",
-        img: "",
+        name: "Red Skull",
+        img: "img/redskull.png",
+        clicked: false
+    },    
+    {
+        name: "Thor",
+        img: "img/thor.png",
+        clicked: false
+    },
+    {
+        name: "Ultron",
+        img: "img/ultron.png",
+        clicked: false
+    },
+    {
+        name: "Vision",
+        img: "img/vision.png",
+        clicked: false
+    },
+    {
+        name: "War Machine",
+        img: "img/warmachine.png",
+        clicked: false
+    },
+    {
+        name: "Wasp",
+        img: "img/wasp.png",
         clicked: false
     }
 ];

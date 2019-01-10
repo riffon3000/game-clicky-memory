@@ -11,8 +11,7 @@ class Character extends Component {
             <div className="character">
                 <img
                     src={this.props.character.img}
-                    alt="character"
-                    className="pic"
+                    alt={this.props.character.name}
                     onClick={this.handleClick} />
             </div>
         )
