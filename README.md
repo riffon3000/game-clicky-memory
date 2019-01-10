@@ -1,7 +1,7 @@
 <h1>Memory Game: Clicky</h1>
 <br>
-Game Clicky Memory is a memory game with React. Application keeps track of the user's score. The user's score will reset to 0 if they click the same image more than once. Every time an image is clicked, the images rendered shuffle on the page.
-<br><br>
+Game Clicky Memory is a memory game with React. Application keeps track of the user's score. The user's score will reset to 0 if they click the same image more than once. Every time an image is clicked, the images rendered shuffle on the page.<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
