@@ -18,6 +18,8 @@ You will also see any lint errors in the console.
 
 ### Deployment
 
+click to [Github Repo](https://github.com/riffon3000/game-clicky-memory)<br>
+
 click to [Github Pages](https://riffon3000.github.io/game-clicky-memory/)<br>
 
 click image to web deployment.<br>
