@@ -1,18 +1,22 @@
 .App {
   text-align: center;
-}
-
-.App-header {
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
+  overflow: hidden;
 }
 
-.App-link {
-  color: #61dafb;
+.character-card {
+  padding: 50px 50px 50px 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.character:hover {
+  transition: transform .2s ease-in-out;
+  transform: scale(1.15,1.15);
+}
+
+img {
+  max-height: 170px;
 }

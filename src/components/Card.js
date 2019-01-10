@@ -9,7 +9,7 @@ const Card = (props) => {
                 character={character}
                 index={index}
                 onCharacterClick={props.onCharacterClick}
-                key={character.name} />
+                key={index} />
             )}
         </div>
     )
